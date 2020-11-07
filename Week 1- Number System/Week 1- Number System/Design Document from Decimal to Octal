@@ -6,5 +6,5 @@
 
 4. We will also store the remainder at every step in the initialized array at index which we will keep incrementing for each iteration of the while loop.
 
-5. We can then print the array using a for loop.
+5. We can then print the array using a for loop.Keeping in mind that we will need to swap the order of printing, and not including the last element(as it will be 0).
 
