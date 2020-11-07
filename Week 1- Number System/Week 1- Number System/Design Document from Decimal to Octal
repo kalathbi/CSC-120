@@ -1,0 +1,10 @@
+1. We will start by initializing an array, to store the outputs of the remainder through division.
+
+2. Next, we will create a while loop, which will divide the input integer by 8, 
+
+3. And keep dividing the quotient by 8, and update the loop until the quotient is 0.
+
+4. We will also store the remainder at every step in the initialized array at index which we will keep incrementing for each iteration of the while loop.
+
+5. We can then print the array using a for loop.
+

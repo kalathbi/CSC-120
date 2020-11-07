@@ -1,0 +1,13 @@
+Each base n uses digits 0 through n-1 in its representation. To convert bases, we divide the target number by the largest number to the power of our desired base, which is less than
+the target number. The first quotient becomes the first number of our representation. Then, we divide the reminder by the largest power of our wanted base. This will go on from step to
+step untill we get to reminder 0.
+
+The process outlined for 100 base 10 to base 8 would be:
+
+100 divided by 8^2(64), reminder 36, quotient 1.
+
+36 divided by 8^1(8), reminder 4, quotient 4.
+
+4 divided by 8^0(1), reminder 0, quotient 1.
+
+So 100 base 10 = 144 base 8.

@@ -1,0 +1,13 @@
+C:\Users\Avishek\Desktop\Week 1- Number System\Week 1- Number System\Week 1- Number System\bin\Debug\netcoreapp3.1\Week 1- Number System.exe
+C:\Users\Avishek\Desktop\Week 1- Number System\Week 1- Number System\Week 1- Number System\bin\Debug\netcoreapp3.1\Week 1- Number System.deps.json
+C:\Users\Avishek\Desktop\Week 1- Number System\Week 1- Number System\Week 1- Number System\bin\Debug\netcoreapp3.1\Week 1- Number System.runtimeconfig.json
+C:\Users\Avishek\Desktop\Week 1- Number System\Week 1- Number System\Week 1- Number System\bin\Debug\netcoreapp3.1\Week 1- Number System.runtimeconfig.dev.json
+C:\Users\Avishek\Desktop\Week 1- Number System\Week 1- Number System\Week 1- Number System\bin\Debug\netcoreapp3.1\Week 1- Number System.dll
+C:\Users\Avishek\Desktop\Week 1- Number System\Week 1- Number System\Week 1- Number System\bin\Debug\netcoreapp3.1\Week 1- Number System.pdb
+C:\Users\Avishek\Desktop\Week 1- Number System\Week 1- Number System\Week 1- Number System\obj\Debug\netcoreapp3.1\Week 1- Number System.csprojAssemblyReference.cache
+C:\Users\Avishek\Desktop\Week 1- Number System\Week 1- Number System\Week 1- Number System\obj\Debug\netcoreapp3.1\Week 1- Number System.AssemblyInfoInputs.cache
+C:\Users\Avishek\Desktop\Week 1- Number System\Week 1- Number System\Week 1- Number System\obj\Debug\netcoreapp3.1\Week 1- Number System.AssemblyInfo.cs
+C:\Users\Avishek\Desktop\Week 1- Number System\Week 1- Number System\Week 1- Number System\obj\Debug\netcoreapp3.1\Week 1- Number System.csproj.CoreCompileInputs.cache
+C:\Users\Avishek\Desktop\Week 1- Number System\Week 1- Number System\Week 1- Number System\obj\Debug\netcoreapp3.1\Week 1- Number System.dll
+C:\Users\Avishek\Desktop\Week 1- Number System\Week 1- Number System\Week 1- Number System\obj\Debug\netcoreapp3.1\Week 1- Number System.pdb
+C:\Users\Avishek\Desktop\Week 1- Number System\Week 1- Number System\Week 1- Number System\obj\Debug\netcoreapp3.1\Week 1- Number System.genruntimeconfig.cache
