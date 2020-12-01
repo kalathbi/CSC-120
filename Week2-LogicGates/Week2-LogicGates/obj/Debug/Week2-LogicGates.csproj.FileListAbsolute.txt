@@ -1,0 +1,11 @@
+C:\Users\Avishek\source\repos\Week2-LogicGates\Week2-LogicGates\bin\Debug\Week2-LogicGates.exe.config
+C:\Users\Avishek\source\repos\Week2-LogicGates\Week2-LogicGates\bin\Debug\Week2-LogicGates.exe
+C:\Users\Avishek\source\repos\Week2-LogicGates\Week2-LogicGates\bin\Debug\Week2-LogicGates.pdb
+C:\Users\Avishek\source\repos\Week2-LogicGates\Week2-LogicGates\bin\Debug\LogicCircuit.dll
+C:\Users\Avishek\source\repos\Week2-LogicGates\Week2-LogicGates\bin\Debug\LogicCircuit.pdb
+C:\Users\Avishek\source\repos\Week2-LogicGates\Week2-LogicGates\bin\Debug\LogicCircuit.dll.config
+C:\Users\Avishek\source\repos\Week2-LogicGates\Week2-LogicGates\obj\Debug\Week2-LogicGates.csprojAssemblyReference.cache
+C:\Users\Avishek\source\repos\Week2-LogicGates\Week2-LogicGates\obj\Debug\Week2-LogicGates.csproj.CoreCompileInputs.cache
+C:\Users\Avishek\source\repos\Week2-LogicGates\Week2-LogicGates\obj\Debug\Week2-LogicGates.csproj.CopyComplete
+C:\Users\Avishek\source\repos\Week2-LogicGates\Week2-LogicGates\obj\Debug\Week2-LogicGates.exe
+C:\Users\Avishek\source\repos\Week2-LogicGates\Week2-LogicGates\obj\Debug\Week2-LogicGates.pdb
