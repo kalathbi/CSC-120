@@ -1,0 +1,7 @@
+C:\Users\Avishek\Desktop\BooleanIdentity\BooleanIdentity\bin\Debug\BooleanIdentity.exe.config
+C:\Users\Avishek\Desktop\BooleanIdentity\BooleanIdentity\bin\Debug\BooleanIdentity.exe
+C:\Users\Avishek\Desktop\BooleanIdentity\BooleanIdentity\bin\Debug\BooleanIdentity.pdb
+C:\Users\Avishek\Desktop\BooleanIdentity\BooleanIdentity\obj\Debug\BooleanIdentity.csprojAssemblyReference.cache
+C:\Users\Avishek\Desktop\BooleanIdentity\BooleanIdentity\obj\Debug\BooleanIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Avishek\Desktop\BooleanIdentity\BooleanIdentity\obj\Debug\BooleanIdentity.exe
+C:\Users\Avishek\Desktop\BooleanIdentity\BooleanIdentity\obj\Debug\BooleanIdentity.pdb

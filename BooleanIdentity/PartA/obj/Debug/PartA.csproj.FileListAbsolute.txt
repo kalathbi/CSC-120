@@ -1,0 +1,11 @@
+C:\Users\Avishek\Desktop\BooleanIdentity\PartA\bin\Debug\PartA.exe.config
+C:\Users\Avishek\Desktop\BooleanIdentity\PartA\bin\Debug\PartA.exe
+C:\Users\Avishek\Desktop\BooleanIdentity\PartA\bin\Debug\PartA.pdb
+C:\Users\Avishek\Desktop\BooleanIdentity\PartA\bin\Debug\LogicCircuit.dll
+C:\Users\Avishek\Desktop\BooleanIdentity\PartA\bin\Debug\LogicCircuit.pdb
+C:\Users\Avishek\Desktop\BooleanIdentity\PartA\bin\Debug\LogicCircuit.dll.config
+C:\Users\Avishek\Desktop\BooleanIdentity\PartA\obj\Debug\PartA.csprojAssemblyReference.cache
+C:\Users\Avishek\Desktop\BooleanIdentity\PartA\obj\Debug\PartA.csproj.CoreCompileInputs.cache
+C:\Users\Avishek\Desktop\BooleanIdentity\PartA\obj\Debug\PartA.csproj.CopyComplete
+C:\Users\Avishek\Desktop\BooleanIdentity\PartA\obj\Debug\PartA.exe
+C:\Users\Avishek\Desktop\BooleanIdentity\PartA\obj\Debug\PartA.pdb
