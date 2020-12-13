@@ -1,0 +1,7 @@
+C:\Users\Avishek\source\repos\SimpleCircuitDesign\SimpleCircuitDesign\bin\Debug\SimpleCircuitDesign.exe.config
+C:\Users\Avishek\source\repos\SimpleCircuitDesign\SimpleCircuitDesign\bin\Debug\SimpleCircuitDesign.exe
+C:\Users\Avishek\source\repos\SimpleCircuitDesign\SimpleCircuitDesign\bin\Debug\SimpleCircuitDesign.pdb
+C:\Users\Avishek\source\repos\SimpleCircuitDesign\SimpleCircuitDesign\obj\Debug\SimpleCircuitDesign.csprojAssemblyReference.cache
+C:\Users\Avishek\source\repos\SimpleCircuitDesign\SimpleCircuitDesign\obj\Debug\SimpleCircuitDesign.csproj.CoreCompileInputs.cache
+C:\Users\Avishek\source\repos\SimpleCircuitDesign\SimpleCircuitDesign\obj\Debug\SimpleCircuitDesign.exe
+C:\Users\Avishek\source\repos\SimpleCircuitDesign\SimpleCircuitDesign\obj\Debug\SimpleCircuitDesign.pdb
