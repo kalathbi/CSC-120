@@ -1,0 +1,10 @@
+C:\Users\Avishek\source\repos\CompoundBoolean\CompoundBoolean\bin\Debug\CompoundBoolean.exe.config
+C:\Users\Avishek\source\repos\CompoundBoolean\CompoundBoolean\bin\Debug\CompoundBoolean.exe
+C:\Users\Avishek\source\repos\CompoundBoolean\CompoundBoolean\bin\Debug\CompoundBoolean.pdb
+C:\Users\Avishek\source\repos\CompoundBoolean\CompoundBoolean\obj\Debug\CompoundBoolean.csprojAssemblyReference.cache
+C:\Users\Avishek\source\repos\CompoundBoolean\CompoundBoolean\obj\Debug\CompoundBoolean.Form1.resources
+C:\Users\Avishek\source\repos\CompoundBoolean\CompoundBoolean\obj\Debug\CompoundBoolean.Properties.Resources.resources
+C:\Users\Avishek\source\repos\CompoundBoolean\CompoundBoolean\obj\Debug\CompoundBoolean.csproj.GenerateResource.cache
+C:\Users\Avishek\source\repos\CompoundBoolean\CompoundBoolean\obj\Debug\CompoundBoolean.csproj.CoreCompileInputs.cache
+C:\Users\Avishek\source\repos\CompoundBoolean\CompoundBoolean\obj\Debug\CompoundBoolean.exe
+C:\Users\Avishek\source\repos\CompoundBoolean\CompoundBoolean\obj\Debug\CompoundBoolean.pdb
