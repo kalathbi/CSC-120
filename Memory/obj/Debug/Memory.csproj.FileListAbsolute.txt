@@ -1,0 +1,14 @@
+C:\Users\Dinesh Sthapit\source\repos\Memory\bin\Debug\Memory.exe.config
+C:\Users\Dinesh Sthapit\source\repos\Memory\bin\Debug\Memory.exe
+C:\Users\Dinesh Sthapit\source\repos\Memory\bin\Debug\Memory.pdb
+C:\Users\Dinesh Sthapit\source\repos\Memory\obj\Debug\Memory.csprojAssemblyReference.cache
+C:\Users\Dinesh Sthapit\source\repos\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh Sthapit\source\repos\Memory\obj\Debug\Memory.exe
+C:\Users\Dinesh Sthapit\source\repos\Memory\obj\Debug\Memory.pdb
+C:\Users\Avishek\Desktop\Memory\bin\Debug\Memory.exe.config
+C:\Users\Avishek\Desktop\Memory\bin\Debug\Memory.exe
+C:\Users\Avishek\Desktop\Memory\bin\Debug\Memory.pdb
+C:\Users\Avishek\Desktop\Memory\obj\Debug\Memory.csprojAssemblyReference.cache
+C:\Users\Avishek\Desktop\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+C:\Users\Avishek\Desktop\Memory\obj\Debug\Memory.exe
+C:\Users\Avishek\Desktop\Memory\obj\Debug\Memory.pdb
