@@ -1,0 +1,7 @@
+C:\Users\Avishek\Desktop\SRLatch\SRLatch\bin\Debug\SRLatch.exe.config
+C:\Users\Avishek\Desktop\SRLatch\SRLatch\bin\Debug\SRLatch.exe
+C:\Users\Avishek\Desktop\SRLatch\SRLatch\bin\Debug\SRLatch.pdb
+C:\Users\Avishek\Desktop\SRLatch\SRLatch\obj\Debug\SRLatch.csprojAssemblyReference.cache
+C:\Users\Avishek\Desktop\SRLatch\SRLatch\obj\Debug\SRLatch.csproj.CoreCompileInputs.cache
+C:\Users\Avishek\Desktop\SRLatch\SRLatch\obj\Debug\SRLatch.exe
+C:\Users\Avishek\Desktop\SRLatch\SRLatch\obj\Debug\SRLatch.pdb
