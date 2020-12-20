@@ -10,8 +10,8 @@ namespace Memory
     {
         static void Main(string[] args)
         {
-            //SimulateMemory();
-            // Conversion();
+            SimulateMemory();
+            Conversion();
             var inputPutDataFile = ;
             var truthTableInputs = Storage.ReadTruthTableData(inputPutDataFile);
 
