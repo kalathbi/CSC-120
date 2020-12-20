@@ -12,7 +12,7 @@ namespace Memory
         {
             SimulateMemory();
             Conversion();
-            var inputPutDataFile = ;
+            var inputPutDataFile = @"C:\Data\inputdata.txt";
             var truthTableInputs = Storage.ReadTruthTableData(inputPutDataFile);
 
             foreach( var input in truthTableInputs)
